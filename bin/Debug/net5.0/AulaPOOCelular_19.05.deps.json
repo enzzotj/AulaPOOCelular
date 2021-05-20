@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AulaPOOCelular_19.05/1.0.0": {
+        "runtime": {
+          "AulaPOOCelular_19.05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AulaPOOCelular_19.05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
